@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 public class WebServerLauncher {
     private static final Logger logger = LoggerFactory.getLogger(WebServerLauncher.class);
 
-    public static void main(String[] args) throws Exception {
+    /*public static void main(String[] args) throws Exception {
         String webappDirLocation = "webapp/";
         Tomcat tomcat = new Tomcat();
         tomcat.setPort(8080);
@@ -19,5 +19,5 @@ public class WebServerLauncher {
 
         tomcat.start();
         tomcat.getServer().await();
-    }
+    }*/
 }
