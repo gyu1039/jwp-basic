@@ -1,3 +1,4 @@
+/*
 package next.dao;
 
 import core.jdbc.ConnectionManager;
@@ -66,3 +67,4 @@ public class UserDao {
         }
     }
 }
+*/
